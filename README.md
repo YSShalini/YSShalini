@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shalini y s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini y s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shalini Y S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini y s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/22csr186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22csr186" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shalini_y_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalini_y_s" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Shalini_YS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalini_y_s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
