@@ -1,4 +1,3 @@
-![Your GIF](https://github.com/YSShalini/BannerImage/blob/main/Pastel%20Watercolor%20Floral%20Personal%20LinkedIn%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Shalini Subramani</h1>
 <h3 align="center">A passionate full stack developer and cybersecurity enthusiast</h3>
 
