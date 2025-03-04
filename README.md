@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shalini Subramani</h1>
-<h3 align="center">A passionate full stack developer and cybersecurity enthusiast</h3>
+<h3 align="center">A passionate full stack developer and AI/ML enthusiast</h3>
 
-- 🔭 I’m currently working on **some CyberSecurity projects**
+- 🔭 I’m currently working on **scalable full-stack projects**
 
-- 🌱 I’m currently learning **Kali Linux, Burp Suite, Metasploit, and Wireshark**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Web development, Python and CyberSecurity tools**
+- 💬 Ask me about **Web development, Python**
 
 - 📫 How to reach me **ysshalini911@gmail.com**
 
